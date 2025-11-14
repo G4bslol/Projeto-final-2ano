@@ -38,7 +38,7 @@ const styles = StyleSheet.create({
   title: {
     position: "absolute",
     top: 20,     // distância do topo
-    right: 20,   // distância da borda direita
+    right: 10,   // distância da borda direita
     fontSize: 60,
     fontWeight: "bold",
     color: "#000",
