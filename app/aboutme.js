@@ -38,7 +38,7 @@ export default function Page() {
       {/* ESCRITAS DO FOTO DE PERFIL */}
 
       <View>
-        <Text style={styles.perfil}>Foto de perfil</Text>
+        <Text style={styles.perfil}>Foto do autor</Text>
         <Text style={styles.perfilgra}>Foto do Professor</Text>
       </View>
 
@@ -88,7 +88,7 @@ const styles = StyleSheet.create({
   subtitle: {
     fontSize: 36,
     color: "#303030ff",
-    textAlign: "center",
+    textAlign: "left",
     marginBottom: 10,
   
   },
